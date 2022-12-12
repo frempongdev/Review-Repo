@@ -1,0 +1,58 @@
+#navbar {
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background:red;    
+}
+ul{
+    display: flex;
+    justify-items: auto;
+    margin-right: 20px;
+    size: 50px;
+    color: white;
+    
+}   
+
+#welcome-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: #000;
+    background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+}
+ h1{
+    color: white;
+    size: 5000px;
+}
+p{
+    color: white;
+    size: 100px;
+}
+
+#works-font {
+    color: #000;
+    size: 500px;
+    text-align: center;
+}
+
+#project-tile{
+    display: flex;
+}
+
+#t-tile{
+    display: block;
+}
+
+
+#profiles {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
